@@ -19,28 +19,12 @@ O site foi construído com foco em simplicidade, responsividade e boa experiênc
 - Link para minhas redes e GitHub  
 - Layout responsivo (desktop e mobile)
 
----
-
-## 🔗 Acesse o Portfólio
-👉 **GitHub Pages:** *adicione seu link aqui*  
-👉 **Repositório no GitHub:** https://github.com/JuniorBarros92/portifolio.git
-
----
 
 ## 🧩 Objetivo
 Organizar meus trabalhos de forma prática e profissional, facilitando o acesso de recrutadores e mostrando minha evolução como desenvolvedor.
 
----
 
-## 📷 Preview
-*(adicione uma imagem do portfólio se quiser)*
 
----
 
-## 📬 Contato
-- **LinkedIn:** *adicione seu link*
-- **GitHub:** https://juniorbarros92.github.io/portifolio/
-
----
 
 ✦ *Obrigado por visitar meu portfólio! Fique à vontade para dar feedback.*  
