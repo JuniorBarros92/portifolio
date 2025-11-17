@@ -136,6 +136,12 @@ if (typewriterText) {
             typewriterText.textContent += text.charAt(i);
             i++;
             setTimeout(typeWriter, 100);
+        } else {
+            setTimeout(() => {
+                i = 0;
+                typewriterText.textContent = '';
+                typeWriter();
+            }, 2000);
         }
     }
     
